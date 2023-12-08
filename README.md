@@ -5,6 +5,7 @@
 
 The Task Management System is a robust solution designed to streamline project organization within a company. Tailored for three distinct user roles - Admin, Project Manager, and Regular Employee - the system offers versatile functionalities to meet the varied needs of each user type. Admins wield comprehensive control over the database, primarily focusing on the creation and management of system users. Project Managers play a pivotal role in overseeing project intricacies and monitoring progress, while Regular Employees actively participate by updating the status of their assigned tasks.
 
+
 **System Functionality:**
 
 1. **User Management:**
