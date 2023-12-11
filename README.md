@@ -132,7 +132,7 @@ The Task Management System has been created utilizing a technology stack that in
 
 Admin Access:
 
-- Email: admin@admin.com
+- Email: admin@test.com
 - Password: Admin@123
 
 Project Manager Access:
